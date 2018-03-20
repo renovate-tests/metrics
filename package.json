@@ -1,0 +1,8 @@
+{
+  "name": "metrics",
+  "version": "0.0.1",
+  "dependencies": {
+    "metrics-graphics": "2.13.0"
+  },
+  "renovate": {}
+}
